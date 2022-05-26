@@ -1,5 +1,5 @@
 # redirect-url
-Redirect to a new shortened URL:
+Redirect an existing URL to a new shortened URL:
 1. Go to the issues tab and create a new issue.
 2. In the title bar, enter an existing URL that you'd like to shorten and redirect to (including the https:// prefix).
 3. Submit and profit.
