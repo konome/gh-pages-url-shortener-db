@@ -5,3 +5,4 @@ Redirect to a new shortened URL:
 3. Submit the issue and profit.
 
 Link to your shortened url is **re.konome.net/*\<issuenumber\>*** e.g. [re.konome.net/1](https://re.konome.net/1) (this page).
+ALternatively you may also use **konome.net/r/\*<issuenumber\>***.
