@@ -1,1 +1,1 @@
-# redirect-url
+# forward-url
